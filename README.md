@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats-one-green-89.vercel.app/api/top-langs/?username=HM9N)](https://github.com/HM9N/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-green-89.vercel.app/api/top-langs/?username=HM9N&exclude_repo=Data-Science-Projects,cursos-python,MachineLearningWithPython)](https://github.com/HM9N/github-readme-stats)
 
 <!--
 **HM9N/HM9N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
